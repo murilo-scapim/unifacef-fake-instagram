@@ -1,0 +1,4 @@
+#Fri Jun 05 21:40:01 BRT 2020
+base.0=C\:\\Users\\Murilo\\Downloads\\unifacef\\unifacef-instagram-master\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
